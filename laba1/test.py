@@ -16,5 +16,4 @@ elif s1<s2:
     print(s2)
 else:
     print(f'{s1}={s2}')
-
-print("rrr")
+    
